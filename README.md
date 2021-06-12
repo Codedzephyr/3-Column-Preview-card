@@ -42,7 +42,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
@@ -52,7 +52,7 @@ You don't have to set heights to components in a flexbox
 
 Flexbox
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 ## Author
 
@@ -60,4 +60,4 @@ Flexbox
 - Frontend Mentor - [@Codedzephyr](https://www.frontendmentor.io/profile/Codedzephyr)
 - Twitter - [@dimah](https://www.twitter.com/dimah)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
