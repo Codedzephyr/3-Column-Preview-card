@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Codedzephyr/3-Column-Preview-card)
-- Live Site URL: [Add live site URL here](https://sleepy-bose-c3c763.netlify.app/)
+- Solution URL: [Solution](https://github.com/Codedzephyr/3-Column-Preview-card)
+- Live Site URL: [Live Site](https://sleepy-bose-c3c763.netlify.app/)
 
 ### Built with
 
