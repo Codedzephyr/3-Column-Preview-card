@@ -16,8 +16,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]('Screenshot.png')
+![](./Screenshot.png))
 
 ### Links
 
