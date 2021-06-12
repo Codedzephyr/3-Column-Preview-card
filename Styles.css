@@ -115,10 +115,6 @@ body {
     height: unset;
   }
 
-  body {
-    height: 1900px;
-  }
-
   .flex-container {
     display: flex;
     width: 90%;
